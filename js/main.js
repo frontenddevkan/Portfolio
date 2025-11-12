@@ -69,10 +69,10 @@ function updateSquares(secondCoordinates) {
         }
 }
 ///////////////////
-const thirdCoordinates = [[0.9, 16], [6.5, 13],
-[6.9, 27.5], [14.2, 12], [14.2, 28],
-[0.5, 17], [7, 11],
-[14.8, 14], [14.8, 30],];
+const thirdCoordinates = [[0.9, 16], [6.9, 27.5],
+[6.9, 27.5], [14.2, 28], [14.2, 28],
+[0.5, 17], [10, 10],
+[14.8, 30], [14.8, 30],];
 
 
 function updateSquares(thirdCoordinates) {
